@@ -1,0 +1,12 @@
+<svg>
+  <text id="TIME"></text>
+  <text id="HR"></text>
+  <text id="STEPS"></text>
+  <text id="CALORIES"></text>
+  <text id="BATTERY"></text>
+  <text id="MONTH"></text>
+  <text id="DAY"></text>
+  <text id="DOW"></text>
+  <text id="test1"></text>
+  <text id="test2"></text>
+</svg>

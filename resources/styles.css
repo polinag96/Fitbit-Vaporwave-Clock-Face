@@ -1,0 +1,67 @@
+.background {
+  viewport-fill: black;
+}
+
+#test1 {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 80;
+  text-anchor: middle;
+  opacity: 0.9;
+  x: 51%;
+  y: 31%;
+  fill: blue;
+}
+
+#test2 {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 80;
+  text-anchor: middle;
+  opacity: 0.35;
+  x: 50%;
+  y: 30%;
+  fill: red;
+}
+
+#CALORIES {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 80;
+  text-anchor: start;
+  x: 15%;
+  y: 80%;
+  fill: white;
+}
+
+#STEPS {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 80;
+  text-anchor: start;
+  x: 15%;
+  y: 90%;
+  fill: white
+}
+
+#BATTERY {
+  font-size: 30;
+  font-family: System-Bold;
+  text-length: 80;
+  text-anchor: end;
+  x: 85%;
+  y: 80%;
+  fill: white;
+}
+
+#HR {
+  font-size: 30;
+  font-family: poppins, sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  text-length: 80;
+  text-anchor: end;
+  x: 85%;
+  y: 90%;
+  fill: white;
+}

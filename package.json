@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~5.0.0"
+  },
+  "fitbit": {
+    "appUUID": "6d4ba9d9-048f-447e-8123-55f71e6e04fe",
+    "appType": "clockface",
+    "appDisplayName": "vaporwave_stats_face",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "vaporwave_stats_face"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
